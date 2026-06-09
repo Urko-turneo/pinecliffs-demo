@@ -1,8 +1,3 @@
-bash
-
-cat /tmp/pinecliffs_app.jsx
-Salida
-
 import { useState } from "react";
 
 // Pine Cliffs palette — dark luxury, serif, sand/gold tones
@@ -369,4 +364,3 @@ export default function App(){
     </div>
   );
 }
-Listo
